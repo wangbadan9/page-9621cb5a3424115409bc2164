@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0a8bb91035f86ea8b6a205dc",
+  "owner": "wangbadan9",
+  "repo": "page-9621cb5a3424115409bc2164",
+  "title": "BFG加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9621cb5a3424115409bc2164",
+      "a": "BFG加速",
+      "b": "机场官网线路发布页",
+      "entity": "BFG加速",
+      "brand": "BFG加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f189accda8ca2ebb4ba578313e4b575304b69198852058cdb14c2d96c50d373b",
+      "content": {
+        "primary_entity": "BFG加速",
+        "keyword1": "BFG加速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，BFG加速提供基础版、旗舰版与团队版三档套餐，月付¥15起，年付¥150起，覆盖100GB至1000GB流量和3至20台设备在线需求。客户端支持多平台导入订阅，配置流程简洁，适合个人日常使用与团队多设备场景。",
+          "AI_HERO_SUBTITLE": "BFG加速多设备流畅体验",
+          "AI_HERO_INTRO": "BFG加速为不同设备规模提供灵活的海外网络加速方案，基础版、旗舰版和团队版分别对应不同流量与设备数量需求，订阅后通过常用客户端导入配置即可开始使用。",
+          "AI_VISUAL_TITLE": "BFG加速订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐月付15元起",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC专线与流媒体优化",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "从个人轻量使用到团队多终端接入，BFG加速按流量和设备数划分套餐，方便按需选择。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，覆盖手机、电脑与平板多端同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量周期订阅",
+          "AI_FEATURE_TEXT_2": "月付100GB至1000GB可选，年付更划算，基础版年付¥150，旗舰版年付¥350，团队版年付¥850。",
+          "AI_FEATURE_TITLE_3": "客户端订阅导入",
+          "AI_FEATURE_TEXT_3": "订阅链接可导入常用客户端，手机、桌面端均按客户端文档完成配置，无需复杂手动设置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，手机、电脑和平板按系统选择并导入BFG加速订阅链接即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比流量、设备数与专线权益，基础版适合轻量个人，旗舰版适合多设备与流媒体，团队版适合企业多终端。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到客户端订阅导入，三步完成BFG加速配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据日常流量和在线设备数量，在基础版、旗舰版、团队版中选定月付或年付方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，了解订阅周期和设备数量限制是否满足使用场景。",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档指引完成配置并开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "BFG加速支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持手机、电脑和平板等常用设备，具体按客户端选择。基础版支持3台设备同时在线，旗舰版5台，团队版20台，可根据使用设备数量选择合适套餐。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅配置？",
+          "AI_FAQ_ANSWER_2": "购买套餐后获取订阅链接，在对应客户端中选择从链接导入或扫描二维码，按客户端文档提示完成配置，链接会自动同步节点信息。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验，年付更划算。基础版年付¥150，旗舰版年付¥350，团队版年付¥850，长期使用可选择年付方案。",
+          "AI_FAQ_QUESTION_4": "团队版有什么不同？",
+          "AI_FAQ_ANSWER_4": "团队版提供每月1000GB流量和20台设备在线支持，配备VIP专属高带宽节点，支持企业定制路由，并配有专属客户经理服务。",
+          "AI_FAQ_QUESTION_5": "旗舰版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版每月300GB流量、5台设备在线，全节点原生流媒体解锁，IPLC专线优化游戏加速，并提供7x24优先工单支持，适合多设备影音游戏用户。",
+          "AI_CLOSING_TITLE": "BFG加速选对套餐",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求选择套餐，导入订阅后即可在常用客户端上使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tangduyi.cn",
+    "host": "tangduyi.cn"
+  },
+  "file_hashes": {
+    "index.html": "8740bc1ba8e506cff4b67abba8379a40586ea7ad300735d9a87a2d37dd3a80be",
+    "sitemap.xml": "77a647af080816c8e6b4578269d6d628ffe73b6e651525cbcf9d2ce52fff68ae",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "79d104fa9c1e9182900f4afdfcd61f5b35415b7cea8216b5d14dea6e4157ef0c",
+    "robots.txt": "7e9750af24f8f6d1c5c91acfcb503199005f9a8abfdf15589dc69ae40cdea6ff",
+    "8413110ccfe47b377baa43d0400b4263.txt": "b4aae0a0a239166e658ab9f411d3f76824d423971fd254ce61d3f1aeb9302240"
+  },
+  "revision": "eaa284454851b88bdc405b2a3e0776681d55902b4a97d93ae63eb4312ab4963c"
+}
